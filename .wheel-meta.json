@@ -1,0 +1,22 @@
+{
+  "wheel_id": 635,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerbrisbane-112",
+  "project": "home-loan-brokers-brisbane-investment-d895f6f987d6ce3785bdb73bf",
+  "parent_t1_ref": "homeloanbrokerbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane investment",
+  "intended_url": "http://home-loan-brokers-brisbane-investment-d895f6f987d6ce3785bdb73bf.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ecbd753fd2acf41a",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-5a1dcd75d71f363e0273de4c9356de248/",
+      "anchor": "Home Loan Brokers Brisbane: Brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
